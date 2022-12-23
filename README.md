@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @yasir-systemplus
-- 👀 I’m interested in Javascript, Ruby
-- 🌱 I’m currently learning Ruby
-- 💞️ I’m looking to collaborate on Ruby
+- 👋 Hi, I’m Yasir.
+- 👀 I’m interested in JavaScript/TypeScript, MERN/MEAN and in Serverless Achitecture. 
+- 🌱 I’m currently working on MERN/MEAN Stack. 
+- 💞️ I’m looking to collaborate on JS/TS projects.
+- 🔗 All projects and demos: https://www.linkedin.com/in/muhammad-yasir-3a1355100
 - 📫 How to reach me yasir@systemplus.co
 
 <!---
